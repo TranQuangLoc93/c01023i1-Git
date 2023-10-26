@@ -1,11 +1,4 @@
-vzv
-adsva
-av
-ầ
-fgf
-<<<<<<< HEAD:a.txt
-gdfg
-fdgdfg
-=======
+
+
 có người khác đẩy lệnh lên
 xin chào anh em
